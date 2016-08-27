@@ -1,3 +1,6 @@
+# How to use Git
+
+```bash
 # Клонируем репозиторий, если у нас его еще нет.
 git clone https://github.com/kartofun/ITMO.git 
 # Переходим в склонированную дирректорию с помощью cd.
@@ -14,3 +17,4 @@ git push origin master
 # Повторяем с пункта git add.
 
 # Можем смотреть историю коммитов с помощью git log. 
+```
